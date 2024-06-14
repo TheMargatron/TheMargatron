@@ -14,15 +14,15 @@ Chapter 3: Mutualism
 * Tying back to the first chapter, mutualism and parasitism exist on a continuum whereby environmental or ecological dynamics can cause a species to switch from parasitism to mutualism, and vice versa. This chapter takes the C++ simulation from chapter three and allows individuals to interact with a separate species. We are still in the early stages of exploring this simulation so the main result so far is that the model works!
 
 Chapter 3.5: AI-ism (sensitivity analysis)
-* If time permits, I would like to write a wrapper program for the C++ simulation which performs sensitivity analysis, feeding the simulation with inputs and exploring the parameter space to find either the range of parameters which have the strongest effect on the evolution of help or the sets of parameters which define the evolutionary threshold for help.
+* If time permits, I would like to write a wrapper program for the C++ simulation which uses machine learning to perform sensitivity analysis, feeding the simulation with inputs and exploring the parameter space to find either the range of parameters which have the strongest effect on the evolution of help or the sets of parameters which define the evolutionary threshold for help.
 
 ## Publications and talks
 The Bayesian data analysis I did for my undergraduate thesis contributed to this paper on blue tit biogeography:
-https://doi.org/10.1111/ecog.03573
+[The effects of woodland habitat and biogeography on blue tit Cyanistes caeruleus territory occupancy and productivity along a 220 km transect](https://doi.org/10.1111/ecog.03573)
 
-I gave an engaging and well received pick-your-own-adventure style talk on my evolutionary research at the 28th EMPSEB conference. I have also delivered many other presentations, including at the Macro-Ecology SIG conference in 2018 and the Symposium on Ecological and Evolutionary drivers of pathogen emergence. 
+I gave an engaging and well received pick-your-own-adventure style talk on my evolutionary research at the 28th EMPSEB conference. I have delivered many other presentations, including at the Macro-Ecology SIG conference in 2018 and the Symposium on Ecological and Evolutionary drivers of pathogen emergence. 
 
 As a result of my work with the EI Art Lab I was invited to give a radio interview in the lead up to the British Science Festival in 2023 with Heart Devon, followed by a second on ABC's Science Show with Robyn Williams.
 
-## Extracurricular activities
-### Art Lab
+## Art Lab
+Art Lab is an interdisciplinary workshop funded by the EI CDT which [Harriet Poznansky](https://www.harrietpoznansky.com/about-contact) runs and I support through admin, co-hosting, and promotion. The goal is to create a space where scientific and artistic research can meet to fuel the development of new ideas and new ways of communicating those ideas. 
